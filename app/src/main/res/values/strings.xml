@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Game</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="start_button">start_button</string>
+    <string name="Game">Game.java</string>
+</resources>
